@@ -43,4 +43,9 @@ To identify meaningful customer segments based on attributes like age, income, g
 ---
 
 ## 📂 Project Structure
-
+Customer-Segmentation/
+├── Customers.csv
+├── Customer_Segmentation.ipynb
+├── main.pkl # (optional) saved clustering model
+├── requirements.txt
+├── README.md
